@@ -1,11 +1,16 @@
 // Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-#include <iostream>
+#include "GameSession.h"
 
-int main()
-{
-    std::cout << "Hello World!\n";
+int main() {
+    // 1. Inisiasi sesi permainan
+    GameSession mysticalGame;
+
+    // 2. Jalankan core loop
+    mysticalGame.startGame();
+
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

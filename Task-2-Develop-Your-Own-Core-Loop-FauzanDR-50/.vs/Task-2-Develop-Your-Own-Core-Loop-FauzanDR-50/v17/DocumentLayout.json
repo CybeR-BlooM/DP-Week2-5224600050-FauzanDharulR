@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week2-5224600050-FauzanDharulR\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7FA985F3-1FCC-4CC7-AA89-C607225A0B2A}|Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week2-5224600050-FauzanDharulR\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\GameSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FA985F3-1FCC-4CC7-AA89-C607225A0B2A}|Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50.vcxproj|solutionrelative:Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\GameSession.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7FA985F3-1FCC-4CC7-AA89-C607225A0B2A}|Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50.vcxproj|F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week2-5224600050-FauzanDharulR\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7FA985F3-1FCC-4CC7-AA89-C607225A0B2A}|Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50.vcxproj|solutionrelative:Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameSession.h",
+              "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week2-5224600050-FauzanDharulR\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\GameSession.h",
+              "RelativeDocumentMoniker": "Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\GameSession.h",
+              "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week2-5224600050-FauzanDharulR\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\GameSession.h",
+              "RelativeToolTip": "Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\GameSession.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-12T12:36:17.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50.cpp",
               "DocumentMoniker": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week2-5224600050-FauzanDharulR\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50.cpp",
               "RelativeDocumentMoniker": "Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50.cpp",
               "ToolTip": "F:\\FAUZAN\\PENS\\Design Pattern\\Github\\DP-Week2-5224600050-FauzanDharulR\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50.cpp",
               "RelativeToolTip": "Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50\\Task-2-Develop-Your-Own-Core-Loop-FauzanDR-50.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-12T03:54:53.936Z",
               "EditorCaption": ""
